@@ -33,14 +33,14 @@ body.fh5co-offcanvas {
 }
 
 a {
-  color: #FCC72C;
+  color: #45f045;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover {
   text-decoration: none !important;
-  color: #FCC72C !important;
+  color: #45f045 !important;
 }
 
 p, ul, ol {
@@ -1074,7 +1074,7 @@ figure {
 }
 @media screen and (max-width: 1080px) {
   .row-bottom-padded-lg {
-    padding-bottom: 2em;
+    padding-bottom: 10em;
   }
 }
 
