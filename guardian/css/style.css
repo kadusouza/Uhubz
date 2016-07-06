@@ -310,15 +310,15 @@ figure {
 }
 
 #fh5co-logo {
-  position: relative;
-  z-index: 2;
-  font-size: 28px;
-  text-transform: uppercase;
-  margin-top: 0px;
-  margin-left:-100px;
-  left: 0px;
-  font-weight: 300;
-  float: left;
+	position: relative;
+	z-index: 2;
+	font-size: 28px;
+	text-transform: uppercase;
+	margin-top: 0px;
+	margin-left: -125px;
+	left: 0px;
+	font-weight: 300;
+	float: left;
 }
 
 }

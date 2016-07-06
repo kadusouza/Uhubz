@@ -1429,7 +1429,8 @@ figure {
 }
 
 img {
-  vertical-align: middle;
+	vertical-align: middle;
+	text-align: left;
 }
 
 .img-responsive {
